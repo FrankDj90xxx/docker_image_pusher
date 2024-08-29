@@ -1,1 +1,8 @@
 nginx
+apache/nifi:latest
+mysql:5.7
+redis
+php
+jenkins/jenkins
+alpine
+ollama/ollama
