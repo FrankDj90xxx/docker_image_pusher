@@ -6,3 +6,4 @@ php
 jenkins/jenkins
 alpine
 ollama/ollama
+fatedier/frp
