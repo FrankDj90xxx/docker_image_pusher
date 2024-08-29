@@ -7,3 +7,4 @@ jenkins/jenkins
 alpine
 ollama/ollama
 fatedier/frp
+minio/minio
