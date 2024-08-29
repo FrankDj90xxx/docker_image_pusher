@@ -8,3 +8,6 @@ alpine
 ollama/ollama
 fatedier/frp
 minio/minio
+elasticsearch:7.17.23
+kibana:7.17.23
+ghcr.io/open-webui/open-webui:main
