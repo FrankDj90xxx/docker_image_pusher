@@ -13,3 +13,4 @@ kibana:7.17.23
 ghcr.io/open-webui/open-webui:main
 zookeeper:3.5
 portainer/portainer
+portainer/agent:2.16.2
