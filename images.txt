@@ -14,3 +14,6 @@ ghcr.io/open-webui/open-webui:main
 zookeeper:3.5
 portainer/portainer
 portainer/agent:2.16.2
+apachesuperset.docker.scarf.sh/apache/superset:latest
+redis:7
+postgres:15
