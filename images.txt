@@ -18,3 +18,4 @@ apachesuperset.docker.scarf.sh/apache/superset:latest
 redis:7
 postgres:15
 python:3.12-slim
+gogs/gogs
