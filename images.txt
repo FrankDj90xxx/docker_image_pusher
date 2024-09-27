@@ -19,3 +19,4 @@ redis:7
 postgres:15
 python:3.12-slim
 gogs/gogs
+hyperf/hyperf:7.4-alpine-v3.11-swoole
