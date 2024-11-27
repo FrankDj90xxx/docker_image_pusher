@@ -22,3 +22,4 @@ gogs/gogs
 hyperf/hyperf:7.4-alpine-v3.11-swoole
 hyperf-skeleton
 quay.io/coreos/flannel:v0.13.0-rc2
+python:3.9-slim
