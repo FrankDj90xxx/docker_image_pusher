@@ -1,1 +1,1 @@
-selenium/standalone-chrome:latest
+selenium/standalone-chrome:122.0
