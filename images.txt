@@ -1,1 +1,1 @@
-kibana:7.17.16
+selenium/standalone-chrome:latest
