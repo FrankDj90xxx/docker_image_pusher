@@ -1,1 +1,2 @@
-selenium/standalone-chrome:122.0
+dperson/torproxy
+selenium/standalone-chrome:latest
