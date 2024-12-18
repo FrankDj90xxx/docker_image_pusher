@@ -1,1 +1,1 @@
-jenkins/jenkins:lts
+kibana:6.8.23
