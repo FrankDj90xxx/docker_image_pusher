@@ -1,1 +1,2 @@
-kibana:6.8.23
+selenium/hub:4.15.0
+selenium/node-chrome:4.15.0
