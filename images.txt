@@ -1,2 +1,1 @@
-selenium/hub:4.15.0
-selenium/node-chrome:4.15.0
+kafka-ui
