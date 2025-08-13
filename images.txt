@@ -1,1 +1,1 @@
-provectuslabs/kafka-ui
+apache/kafka:3.7.0
